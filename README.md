@@ -21,7 +21,7 @@ To navigate quickly to a particular exercise, search within the document for "Ex
 
 # Material Covered
 
-Currently this covers chapters I, II, III, sections 1-3 of chapter IV, and appendix C.
+Currently this covers chapters I-IV and appendix C.
 The plan is to eventually cover the whole book (hopefully).
 
 # Contact
